@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+     "id": "82c4c531-d2d8-4632-a21e-e1387c817c73",
+     "name": "Licensing",
+     "publisher": "Scott",
+     "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
